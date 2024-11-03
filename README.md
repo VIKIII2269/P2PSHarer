@@ -1,6 +1,4 @@
-Here's a `README.md` file for the P2P file-sharing project. This file provides an overview, setup instructions, and usage examples.
 
-```markdown
 # P2P File Sharing System
 
 A simple peer-to-peer (P2P) file-sharing system implemented in Python. This project allows each peer to act as both a client and a server to share files directly with other peers without relying on a central server.
